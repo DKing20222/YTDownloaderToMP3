@@ -6,8 +6,8 @@ from moviepy.editor import *
 import YTDownloaderFunctions
 
 #definitions
-link = Playlist('https://youtube.com/playlist?list=PLqXoVGsuhMJy2gI3p73craZEDzY4jCHjm')
-folderPath = "/home/dking20222/Documents/YTDownloader/Downloaded/"
+link = Playlist('yourPlaylist')
+folderPath = "yourFoldePath"
 i = 0
 
 #main loop
